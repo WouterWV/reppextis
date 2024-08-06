@@ -1,2 +1,2 @@
 # reppextis
-WIP : code for (RE)(PP)(EX)TIS simulations
+Python code for (RE)(PP)(EX)TIS simulations. A work in progress. 
